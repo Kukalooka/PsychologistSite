@@ -1,0 +1,7 @@
+.mainCont{
+    width: 100%;
+    min-height: 80vh;
+    background-image: url("./dmuchawiec.svg");
+    background-position: right bottom;
+    background-repeat: no-repeat;
+}
