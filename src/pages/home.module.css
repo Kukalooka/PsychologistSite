@@ -114,18 +114,18 @@ header p{
     text-decoration: none;
 }
 
-.emailStyle::hover{
-    color: rgb(66, 20, 77);
-    margin-top: 30px;
-
-    text-decoration: underline;
-}
-
 .emailStyle::active{
     color: rgb(108, 40, 123);
     margin-top: 30px;
 
     text-decoration: none;
+}
+
+.emailStyle::hover{
+    color: rgb(66, 20, 77);
+    margin-top: 30px;
+
+    text-decoration: underline;
 }
 
 @media only screen and (max-width: 1000px) {
