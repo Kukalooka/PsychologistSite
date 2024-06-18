@@ -33,10 +33,10 @@ const Home = () => {
                 </h3>
                 <ul>
                     <li><b>Indywidualna</b> pomoc psychologiczna</li>
-                    <li><b>Poradnictwo</b> psychologiezne</li>
+                    <li><b>Poradnictwo</b> psychologiczne</li>
                     <li>Radzenie sobie ze<b> stresem, Içkami, depresją</b></li>
                     <li><b>Niepowodzenia szkolne</b></li>
-                    <li><b>Uzaleznienia, samouszkodzenia</b></li>
+                    <li><b>Uzależnienia, samouszkodzenia</b></li>
                 </ul>
             </article>
             <article className={styles.kontakt}>
@@ -45,7 +45,7 @@ const Home = () => {
                 </h4>
                 <ul>
                     <li><b>Telefon:</b> 791851025</li>
-                    <li><b>Adres E-Mail:</b> psychologdominikadrag@gmail.com</li>
+                    <li><b>Adres E-Mail:</b> <a className={styles.emailStyle} href="mailto:psychologdominikadrag@gmail.com">psychologdominikadrag@gmail.com</a></li>
                 </ul>
             </article>
         </main>

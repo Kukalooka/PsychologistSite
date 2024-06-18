@@ -100,6 +100,34 @@ header p{
     margin-left: 1vw;
 }
 
+.emailStyle{
+    color: rgb(108, 40, 123);
+    margin-top: 30px;
+
+    text-decoration: none;
+}
+
+.emailStyle::visited{
+    color: rgb(89, 30, 102);
+    margin-top: 30px;
+    
+    text-decoration: none;
+}
+
+.emailStyle::hover{
+    color: rgb(146, 47, 168);
+    margin-top: 30px;
+
+    text-decoration: none;
+}
+
+.emailStyle::active{
+    color: rgb(108, 40, 123);
+    margin-top: 30px;
+
+    text-decoration: none;
+}
+
 @media only screen and (max-width: 1000px) {
 
     header{
