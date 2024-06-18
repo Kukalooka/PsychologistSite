@@ -27,10 +27,22 @@ const Home = () => {
                     <li><b>Wygodne terminy:</b> Oferuję elastyczne godziny spotkań, aby dopasować się do Twojego grafiku.</li>
                 </ul>
             </article>
-            <article className={styles.kontakt}>
+            <article className={styles.uslugi}>
                 <h3>
-                    Skontaktuj się ze mną
+                    Usługi które oferuje
                 </h3>
+                <ul>
+                    <li><b>Indywidualna</b> pomoc psychologiczna</li>
+                    <li><b>Poradnictwo</b> psychologiezne</li>
+                    <li>Radzenie sobie ze<b> stresem, Içkami, depresją</b></li>
+                    <li>Niepowodzenia szkolne<b></b></li>
+                    <li><b>Uzaleznienia, samouszkodzenia</b></li>
+                </ul>
+            </article>
+            <article className={styles.kontakt}>
+                <h4>
+                    Skontaktuj się ze mną
+                </h4>
                 <ul>
                     <li><b>Telefon:</b> 791851025</li>
                     <li><b>Adres E-Mail:</b> psychologdominikadrag@gmail.com</li>
