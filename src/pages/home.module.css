@@ -101,31 +101,33 @@ header p{
 }
 
 .emailStyle{
+    transition: color 0.1s;
     color: rgb(108, 40, 123);
     margin-top: 30px;
 
     text-decoration: none;
 }
 
-.emailStyle::visited{
+.emailStyle:visited{
     color: rgb(89, 30, 102);
     margin-top: 30px;
     
     text-decoration: none;
 }
 
-.emailStyle::active{
+.emailStyle:active{
     color: rgb(108, 40, 123);
     margin-top: 30px;
 
     text-decoration: none;
 }
 
-.emailStyle::hover{
-    color: rgb(66, 20, 77);
+.emailStyle:hover{
+    transition: color 0.1s;
+    color: rgb(41, 12, 48);
     margin-top: 30px;
 
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 @media only screen and (max-width: 1000px) {
