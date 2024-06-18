@@ -34,7 +34,7 @@ const Home = () => {
                 <ul>
                     <li><b>Indywidualna</b> pomoc psychologiczna</li>
                     <li><b>Poradnictwo</b> psychologiczne</li>
-                    <li>Radzenie sobie ze<b> stresem, Içkami, depresją</b></li>
+                    <li>Radzenie sobie ze<b> stresem, lękami, depresją</b></li>
                     <li><b>Niepowodzenia szkolne</b></li>
                     <li><b>Uzależnienia, samouszkodzenia</b></li>
                 </ul>

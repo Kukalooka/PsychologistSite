@@ -115,10 +115,10 @@ header p{
 }
 
 .emailStyle::hover{
-    color: rgb(146, 47, 168);
+    color: rgb(66, 20, 77);
     margin-top: 30px;
 
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .emailStyle::active{
