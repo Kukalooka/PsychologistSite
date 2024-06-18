@@ -56,10 +56,10 @@ header p{
 }
 
 .uslugi{
+    margin-top: 100px;
     color: #44333f;
     display: flex;
     flex-direction: column;
-    align-items: center;
     width: 100%;
     max-width: 1000px;
     margin: auto;
@@ -75,7 +75,7 @@ header p{
 .uslugi li{
     font-size: 25px;
     margin-top: 35px;
-    width: fit-content;
+    margin-left: 1vw;
 }
 
 .kontakt{
