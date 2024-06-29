@@ -45,7 +45,7 @@ const Home = () => {
                 </h4>
                 <ul>
                     <li><b>Telefon:</b> 791851025</li>
-                    <li><b>Adres E-Mail:</b> <a className={styles.emailStyle} href="mailto:psychologdominikadrag@gmail.com">psychologdominikadrag@gmail.com</a></li>
+                    <li><b>Adres email:</b> <a className={styles.emailStyle} href="mailto:psychologdominikadrag@gmail.com">psychologdominikadrag@gmail.com</a></li>
                 </ul>
             </article>
         </main>
