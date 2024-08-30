@@ -7,7 +7,7 @@ const Home = () => {
         <img src={SvgImg} className={styles.transImg} height="800px" alt="Dmuchawiec"/>
         <header>
             <h1>
-                Nazywam się Dominika Drąg
+                Dominika Drąg
             </h1>
             <p>
                 Jestem doświadczonym psychologiem i pedagogiem, który z pasją i
@@ -19,7 +19,7 @@ uniemożliwią lub znacznie utrudniają codzienne funkcjonowanie. Od blisko 5 la
 Skoncentrowanej na Rozwiązaniach (ukończony I i II stopień), co pozwala mi przede wszystkim
 dogłębnie poznać mocne strony pacjenta i to na nich oprzeć proces niwelowania problemu. W swojej
 pracy przede wszystkim staram się stworzyć atmosferę bezpieczeństwa oraz zaufania. Kieruję się przede
-wszystkim dobrem osoby, z którą pracuję oraz uwzględniam Jej indywidualne potrzeby. Szczególne
+wszystkim dobrem osoby z którą pracuję oraz uwzględniam Jej indywidualne potrzeby. Szczególne
 miejsce w moim doświadczeniu zawodowym zajmuje praca z młodzieżą oraz dziećmi.
             </p>
         </header>
